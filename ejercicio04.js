@@ -54,7 +54,7 @@ switch(numeroDia){
         console.log('Domingo')
     break
     default :
-        console.log('El numero ingresado es incorrecto')
+        console.log('El numero ingresado es incorrecto'.red)
     break
 }
 
