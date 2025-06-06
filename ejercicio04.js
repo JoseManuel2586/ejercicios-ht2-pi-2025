@@ -1,5 +1,5 @@
 import readline from 'readline-sync'
-
+import 'colors'
 // Paso 1: Solicitar número de día
 // const numeroDiaTexto = ...
 // const numeroDia = ...
